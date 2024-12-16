@@ -1,2 +1,3 @@
 # First-code
-author  - Vaghani Laksh
+This is my first code
+Author  - Vaghani Laksh
